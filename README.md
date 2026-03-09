@@ -13,6 +13,6 @@ React
 JavaScript
 CSS
 
-## Screenshot
+## Screenshots
 ![React Accordion Toggle Demo](screenshots/accordion-demo.gif)
 ![React Accordion Hover](screenshots/accordion-hover.gif)
