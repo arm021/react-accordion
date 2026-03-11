@@ -1,17 +1,18 @@
 :root {
-  --border-hover: 0.5rem solid var(--bs-teal);
-  --border-active: 0.5rem solid var(--bs-blue);
-  --box-shadow: 1.5rem 1rem 1rem -0.2rem rgba(69,85,108,0.5);
+  --border-hover: 0.5rem solid var(--bs-orange);
+  --border-active: 0.5rem solid var(--color-navy);
+  --box-shadow: 1rem 1rem 2rem -0.5rem rgba(69,85,108,0.5);
+  --color-navy: rgb(0 0 128)
 }
 
 body {
-  background-color: var(--bs-light);
-  color: var(--bs-dark);
+  background-color: var(--bs-white);
+  color: var(--bs-black);
 }
 
 .page-header {
-  background-color: var(--bs-dark);
-  color: var(--bs-light);
+  background-color: var(--color-navy);
+  color: var(--bs-white);
 }
 
 .accordion-item {
@@ -33,6 +34,5 @@ body {
 .accordion-header {
   display: flex;
   justify-content: space-between;
-  background-color: var(--bs-dark);
-  color: var(--bs-light);
+  color: var(--color-navy);
 }

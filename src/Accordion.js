@@ -17,7 +17,7 @@ const Accordion = ({title, body}) => {
 			</div>
 
 			{isOpen && 
-				<div className='accordion-body p-4'>
+				<div className='accordion-body p-3'>
 					<p>{body}</p>
 				</div>}
 		</div>

@@ -50,7 +50,7 @@ const App = () => {
 
   return (
     <div className='container'>
-      <h1 className='page-header my-3 p-5 text-center'>React Accordion</h1>
+      <h1 className='page-header my-3 p-5 text-center'>React Accordion App</h1>
 
       <div className='row'>
         {posts.map((post, index) => (
