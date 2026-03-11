@@ -11,6 +11,7 @@ Interactive accordion component built using React.
 ## Tech Stack
 React
 JavaScript
+Bootstrap
 CSS
 
 ## Screenshots
@@ -18,4 +19,4 @@ CSS
 ![React Accordion Hover](screenshots/accordion-hover.gif)
 
 ## Live Demo
-[Accordion App (React JS) via Netlify](https://tangerine-sawine-2b4c10.netlify.app)
+[React Accordion App](https://react-accordion-andrew.netlify.app)
