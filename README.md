@@ -9,10 +9,10 @@ Interactive accordion component built using React.
 - Component-based UI
 
 ## Tech Stack
-React
-JavaScript
-Bootstrap
-CSS
+- React
+- JavaScript
+- Bootstrap
+- CSS
 
 ## Screenshots
 ![React Accordion Toggle Demo](screenshots/accordion-demo.gif)
