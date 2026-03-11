@@ -16,3 +16,6 @@ CSS
 ## Screenshots
 ![React Accordion Toggle Demo](screenshots/accordion-demo.gif)
 ![React Accordion Hover](screenshots/accordion-hover.gif)
+
+## Live Demo
+[Accordion App (React JS) via Netlify](https://tangerine-sawine-2b4c10.netlify.app)
