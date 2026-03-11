@@ -15,8 +15,7 @@ Interactive accordion component built using React.
 - CSS
 
 ## Screenshots
-![React Accordion Toggle Demo](screenshots/accordion-demo.gif)
-![React Accordion Hover](screenshots/accordion-hover.gif)
+![React Accordion App Demo](screenshots/react-accordion-demo.gif)
 
 ## Live Demo
 [React Accordion App](https://react-accordion-andrew.netlify.app)
